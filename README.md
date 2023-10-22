@@ -1,2 +1,2 @@
 # CoinFlip_sweetHeart
-project game sederhana dari kelompok biri biri menggunakan bahasa c++
+Dalam permainan seru yang dikenal sebagai "Coin Flip Sweet Heart," keseruan terletak pada menebak hasil lemparan koin yang acak. Apakah koin akan jatuh dengan sisi gambar, ataukah dengan sisi angka ? Keberuntungan pemain ditentukan oleh lemparan koin, dan jika tebakan mereka benar, poin akan datang mengalir. Namun, hati-hati, setiap pemain hanya memiliki tiga nyawa (heart) untuk bertaruh, jadi setiap lemparan koin adalah momen mendebarkan. Siapakah yang akan menjadi ahli dalam seni menebak hasil koin dan memenangkan Coin Flip Sweet Heart?
