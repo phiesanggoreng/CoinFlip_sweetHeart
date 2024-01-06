@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1> ❤ Coin Flip SweetHeart ❤ </h1>
-  <p><b>Program akhir semester 1 dari Kelompok 5</b></p>
+  <p><b>Program akhir semester 1 dari Kelompok 10</b></p>
 </div>
 
 
